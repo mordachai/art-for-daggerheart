@@ -29,6 +29,10 @@
       "daggerheart": {
         "mapping": "modules/art-for-daggerheart/mappings/adversaries-mapping.json",
         "credit": "Art by Gus & Yuri"
+      },
+      "daggerheart-unofficial": {
+        "mapping": "modules/art-for-daggerheart/mappings/adversaries-mapping-uo.json",
+        "credit": "Art by Gus & Yuri"
       }
     }
   },
@@ -40,13 +44,15 @@
   ],
 
   "relationships": {
-    "systems": [
-      {
-        "id": "daggerheart",
-        "type": "system", 
-        "compatibility": {}
-      }
-    ]
+    "systems": [{
+      "id": "daggerheart",
+      "type": "system", 
+      "compatibility": {}
+    },{
+      "id": "daggerheart-unofficial",
+      "type": "system",
+      "compatibility": {}
+    }]
   },
 
   "url": "https://github.com/mordachai/art-for-daggerheart",
