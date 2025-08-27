@@ -1,4 +1,5 @@
 ### Current Progress (Adversaries):
+
 ![Progress](https://progress-bar.xyz/94/?style=for-the-badge&scale=129&title=Core_Adversaries&width=1000&color=babaca&prefix=&suffix=/129)
 
 > Work in progress!
