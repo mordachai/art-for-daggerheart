@@ -41,12 +41,13 @@ And if you want extra style, you can add the built-in Foundry Token Rings around
 
 Choose your look in the module settings:
 
-<img width="797" height="700" alt="image" src="https://github.com/user-attachments/assets/e913c647-4584-44fb-b2e7-b02178301f21" />
+<img width="1605" height="757" alt="image" src="https://github.com/user-attachments/assets/ac460812-58af-433d-afbf-299c08f99728" />
 
 * **Wildcards Only** – Varied tokens from the `tokens/` folder.
 * **Wildcards + Rings** – Varied tokens plus Foundry’s built-in rings.
 * **Circle Only** – Circular tokens from the `circle/` folder.
 * **Circle + Rings** – Circular tokens plus Foundry’s built-in rings.
+* **Portrait + Rings** – Sheet portrait with Foundry's ring (over-the-frame look).
 
 <img width="1434" height="771" alt="image" src="https://github.com/user-attachments/assets/084f1980-3585-4f41-937b-28a89589fa7a" />
 
