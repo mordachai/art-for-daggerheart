@@ -5,6 +5,7 @@
 
 const MODULE_ID = "art-for-daggerheart";
 const ADV_PACK = "daggerheart.adversaries";
+const ADV_PACK_UO = "daggerheart-unofficial-srd.adversaries";
 
 const TOKEN_MODE = {
   WILDCARDS: "wildcards",
@@ -93,7 +94,7 @@ function registerSettings() {
 Hooks.on("applyCompendiumArt", (documentClass, source, pack, art) => {
   // Be tolerant to different pack shapes
   const packId = pack?.metadata?.id ?? pack?.collection;
-  if (packId !== ADV_PACK) return;
+  if (packId !== ADV_PACK && packId !== ADV_PACK_UO) return;
 
   const mode = game.settings.get(MODULE_ID, "tokenMode");
 
