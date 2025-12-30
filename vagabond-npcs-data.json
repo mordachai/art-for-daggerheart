@@ -1,0 +1,5424 @@
+{
+  "bestiary": [
+    {
+      "id": "01WK986PiOP0uUDE",
+      "name": "Flying Spellbook",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "0AFjXcf1RLhiuE9M",
+      "name": "Ape",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "0PP2iH12NZJB7VoH",
+      "name": "Animated Armor",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "0ZQ07sDbVFlUij3q",
+      "name": "Giant, Hill",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "0ggPx89IztNk2YN8",
+      "name": "Goblin, Mage",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "0kzsaKPEt9F2cLzh",
+      "name": "Ankheg",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "0nLALSeaeMWmukSu",
+      "name": "Chort",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "0yQoEPuPUHUKwEAv",
+      "name": "Dimension Ripper",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "14SyZkKvSmv2smFw",
+      "name": "Golem, Bone",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "15zTuWanUAXWX4Ee",
+      "name": "Crawling Claw",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "1MdGIIKX4t4kz9Ok",
+      "name": "Elemental, Water",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "1w5VfFT6iJ7890ac",
+      "name": "Ooze, Ectoplasmic",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "317tiGBZWk0gxSVp",
+      "name": "Yeti",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "31QN4EUQL9G9fOTj",
+      "name": "Grasping Goo",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "35jFokbHaywW57P4",
+      "name": "Couatl",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "38Ao3uZskQmybbHJ",
+      "name": "Nymit",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "3RUGcNIIcyNNK5MC",
+      "name": "Chicken",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "3gP8OJd4XdHbmr0W",
+      "name": "Stirge",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "4Lro471R0RGDC9xL",
+      "name": "Carcolh",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "4k5nmsYtlwGLqqdM",
+      "name": "Zombie, Drowner",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "4pxjze1TRnSTeGxV",
+      "name": "Zombie Dragon",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 4,
+        "height": 4
+      },
+      "system": {
+        "size": "giant"
+      }
+    },
+    {
+      "id": "4tgJAUkCwHMUbh0L",
+      "name": "Elemental, Air",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "4v5QoFgJEO2q2z9v",
+      "name": "Shark, Megalodon",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 4,
+        "height": 4
+      },
+      "system": {
+        "size": "giant"
+      }
+    },
+    {
+      "id": "4vBxGDQxMm4xvHxQ",
+      "name": "Dragon Turtle",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 5,
+        "height": 5
+      },
+      "system": {
+        "size": "colossal"
+      }
+    },
+    {
+      "id": "56Wb96lj19hGzOB9",
+      "name": "Skeleton, Blazing Bones",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "5EWozL7AN3eZxhon",
+      "name": "Leech, Giant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "5IzyajPMBdSktYBn",
+      "name": "Pixie",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "5oYLWXICi7KYOtla",
+      "name": "False Hydra",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "5slBPAwQ2kDgFCpa",
+      "name": "Lindworm",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "6374iY64VLoDAtDV",
+      "name": "Kelpie",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "64mVh7KUrDrCzHR5",
+      "name": "Beisht Kione Dhoo",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "6LjwOPsMtm36DT2g",
+      "name": "Elemental, Lesser Water",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "6l3L0a8gHCSRGPlQ",
+      "name": "Banshee",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "6sls2wQDONungyyK",
+      "name": "Choker",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "6y4J58Z8UGbrm2I2",
+      "name": "Mantis, Giant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "7Q4CeeNTFsoyIvLJ",
+      "name": "Elemental, Greater Air",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "7t0wb4hi6Oh7vAK1",
+      "name": "Ghost",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "7xz66vMa0tsqNKqx",
+      "name": "Medusa",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "87OFFZOTxFeRldz8",
+      "name": "Dragon, Ancient - Green",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 4,
+        "height": 4
+      },
+      "system": {
+        "size": "giant"
+      }
+    },
+    {
+      "id": "8JzYAkpSslsI0HpO",
+      "name": "Deep One",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "8gZeIa8LY8GN4H4u",
+      "name": "Rabbit",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "8sVozyqwRdex7Vu2",
+      "name": "Cloaker",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "9C6nnuhCslXCKstl",
+      "name": "Boar, Giant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "9oOddlwS0ITkOVkm",
+      "name": "Sphinx, Archon",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "9qmdxUzE04c5cprG",
+      "name": "Skeljaskrimsli",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "9rpGK7YO9OfbXJoh",
+      "name": "Green Slime",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "9ujVnpprisq50dFW",
+      "name": "Crawling Wall",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "AJp7YGvfDGB2C1Yp",
+      "name": "Death Knight",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "ATWC3zLqqZCvDLGF",
+      "name": "Dragon, Young - Red",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "AWphKwFCmJsDxfYV",
+      "name": "Angel",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "BHX4mhjjYrxqIe2E",
+      "name": "Troglodyte",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "COZgPuEHq67Lhcjd",
+      "name": "Werewolf, Dire",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "CmGogAAhZOFHHJeG",
+      "name": "Will o' Wisp",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "DIXBdymeCr9HUJOd",
+      "name": "Hag, Grove",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "DhEz76COsuB6EsEn",
+      "name": "Triceratops",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "Dk22iH4Qt3b04hle",
+      "name": "Whale, Blue",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 5,
+        "height": 5
+      },
+      "system": {
+        "size": "colossal"
+      }
+    },
+    {
+      "id": "Dl66ByoWtgTfWJ7C",
+      "name": "Octopus, Giant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "Dq3ik1JY5uCLzUDV",
+      "name": "Wight",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "E2wuTAAG4LlsJca7",
+      "name": "Mummy Lord",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "EVRDPfOWLjfVf1io",
+      "name": "Rumptifusel",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "EbaM51lNKlSiwgqf",
+      "name": "Snake, Pit Viper",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "EjmMNTTsfwFpGdKW",
+      "name": "Assassin Vine",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "F0RHdKPPAxKpxtnG",
+      "name": "Kobold, Warrior",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "FGTs80o3umSqJjZH",
+      "name": "Elemental, Lesser Fire",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "FHY3U8iRqDufmcZT",
+      "name": "Manticore",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "FTyGaeKSe3Hhi2aw",
+      "name": "Skeleton, Giant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "FYjFBtN4C5lXvFLA",
+      "name": "Gelatinous Cube",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "FdAlnzOqsprGIwwP",
+      "name": "Owl",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "FqA1XFVfB8o9zigs",
+      "name": "Cat",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "FsDuYyDw3jtO2KYC",
+      "name": "Sea Lion",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "Fup7vnsrE5fRJwyP",
+      "name": "Hellhound",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "FwKNYxhPvyTu4D1c",
+      "name": "Homunculus",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "G2KnbYhwZ2xfT3wM",
+      "name": "Tarrasque",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 5,
+        "height": 5
+      },
+      "system": {
+        "size": "colossal"
+      }
+    },
+    {
+      "id": "G4yOOmYO0Wahx9d8",
+      "name": "Elemental, Lesser Air",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "GAMXQgxdOS165gB8",
+      "name": "Thoom",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "GC7oKXEGCyiVXrxw",
+      "name": "Pseudodragon",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "GSppPxCY8u1FvIDQ",
+      "name": "Lizard, Giant Draco",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "Gfk8iD3vEweR7era",
+      "name": "Hippopotamus",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "GueGlPk8Be6uhm0b",
+      "name": "Floating Eye",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "H75dZV7HI4VHjtKR",
+      "name": "Snake, Giant Poisonous",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "HSRsNGY2YYqFEJ2t",
+      "name": "Viskyd",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "HgFLrkxTM7oe2w7Z",
+      "name": "Horse, Draft",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "HmlmtEocbWolrl3F",
+      "name": "Weasel, Giant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "Ht9KJUOiRr1qjSQ2",
+      "name": "Dragon, Young - Green",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "Hxp3Jl8LovAmxeNY",
+      "name": "Amphiptere",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "IH0voiEc6ZkTBjH8",
+      "name": "Hippopotamus, Behemoth",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "IK2zXCOyRBKU8rS2",
+      "name": "Carrion Clump",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "IWiL8vs9JwuriDcX",
+      "name": "Animated Armor",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "IXUAeSvvSjPDcxNC",
+      "name": "Cockatrice",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "IcbNlle1cmGen0Kk",
+      "name": "Skeleton",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "Im2QfgKyeK3bFyLO",
+      "name": "Alligator/Crocodile, Giant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "JEjyqTf7HImNj1hy",
+      "name": "Sabre-tooth Tiger",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "Ja6yNDG2LptOgMjn",
+      "name": "Owl Bear",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "JdG9XdEO8Gk3vwpV",
+      "name": "Carcass Crawler",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "JiYcX0LZZZCqhyrq",
+      "name": "Grey Ooze",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "Jqv4wH6JcoviGgE2",
+      "name": "Kobold, Alchemist",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "KNtsLMtnvRRhzHq0",
+      "name": "Ape, Giant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "KOz3gxILuvDESwJZ",
+      "name": "Ripworm",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "KQSHQH9otaxpToPF",
+      "name": "Potead, Medium",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "KYnkN1KyQ0P1HXgJ",
+      "name": "Spider, Giant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "KeV6hUgx2XhZQcSD",
+      "name": "Pteranodon",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "KiEAtgHOGTguu2SW",
+      "name": "Spider, Giant Black Widow",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "LHeJZ3DFQ1ni6og1",
+      "name": "Potead, Small",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "LQTZ2AFyaI4IJD7b",
+      "name": "Ant, Giant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "LWsvMezQ9BvCYFfJ",
+      "name": "Violet Fungus",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "MDeTATYPlrz4jjQb",
+      "name": "Dragon, Ancient - Red",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 4,
+        "height": 4
+      },
+      "system": {
+        "size": "giant"
+      }
+    },
+    {
+      "id": "MV5G94cDuVi9tKt9",
+      "name": "Joust Guardian",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "MVEkTMHMnNsf6rxz",
+      "name": "Elemental, Fire",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "McZrbb872Ohd6o7u",
+      "name": "Bee, Giant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "MgwGpLpfzFgXxgEz",
+      "name": "Elemental, Earth",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "NI1b4rIPgJKsLKQJ",
+      "name": "Shambling Mound",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "ODbpq02R0n8eFcGc",
+      "name": "Goblin, Warrior",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "OI2CyIrhee1JOYlv",
+      "name": "Oni",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "OM4n0N2hftXzkcRy",
+      "name": "Cat, Great",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "OXIrSQsloN8IRgfA",
+      "name": "Yellow Mould",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "OYXQp77BI8QgFh7s",
+      "name": "Wyvern",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "ObCy4kANqhT3rrbJ",
+      "name": "Wolf",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "OdcUXkPNyJBb3We0",
+      "name": "Lich",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "OtEJxfZ13jBJ1apz",
+      "name": "Dragon, Elder - Black",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "P4TI9ono7atq1wBw",
+      "name": "Bugbear",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "PSNF8mdWgMS4hZ2E",
+      "name": "Byakhee",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "Poixlfce7pZDHC8L",
+      "name": "Amikuk",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "QP5xEKlWLoRQhS3t",
+      "name": "Froghemoth",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "QlBMPKwPxTNYRSfg",
+      "name": "Demon Ray",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "RCrdmkp96a9uhfT2",
+      "name": "Golem, Stone",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "RFENB7RObfPWSY34",
+      "name": "Black Pudding",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "Rq6JPBgL5v88JAd0",
+      "name": "Hydrangean",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "S5JBdu7eIlAWclHE",
+      "name": "Hawk",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "SAuMR6M14HuSc5BS",
+      "name": "Phoenix",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 4,
+        "height": 4
+      },
+      "system": {
+        "size": "giant"
+      }
+    },
+    {
+      "id": "SZpO5yGzoB9FI2cM",
+      "name": "Spider, Giant Crab",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "SiJJtJPafn0XdVSO",
+      "name": "Thulhan",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "SvrccBltWb6a6zqw",
+      "name": "Ooze, Blood",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "T2fW1gvdOsDS4D5J",
+      "name": "Wolf in Sheep's Clothing",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "TDwppLCtTNicN0kx",
+      "name": "Living Statue, Rock",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "TeXpYvmYgkwz7Rkd",
+      "name": "Church Grim",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "Tpxw3uVrHbwDUmG2",
+      "name": "Mimic",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "TtjXGTTkkmhnyxmp",
+      "name": "Bear",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "UpPKdvIZe9N3MH2B",
+      "name": "Viper Tree",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "Uylf41QzuircJejb",
+      "name": "Dragon, Young - Black",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "V9e8mIbkjjc0QRSj",
+      "name": "Dragon, Hatchling - Red",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "VfJhWuklmjdqGn6j",
+      "name": "Centipede, Giant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "W5kmv1bYrErmzoUI",
+      "name": "Golem, Clay",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "WPWcwr72e6bVPaAx",
+      "name": "Efreeti",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "WcINvXEZIYp4rO4s",
+      "name": "Jarjacha",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "Wpi6ETJ6izgT1aOo",
+      "name": "Wolf, Winter",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "X5SxKCZtI5jCWBK4",
+      "name": "Necrophidius",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "XJXb7O120A5ewg1N",
+      "name": "Warp Beast",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "XPOst99o80XqI6KY",
+      "name": "Snake, Cobra",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "XaZlVpSeim63R5a4",
+      "name": "Doppelgänger",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "Xc30d0v7k9g20Nmu",
+      "name": "Stone Colossus",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 5,
+        "height": 5
+      },
+      "system": {
+        "size": "colossal"
+      }
+    },
+    {
+      "id": "XqDi7xhYi8r25Eu7",
+      "name": "Stolas Demon",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "XqPwjVW3k3xNa9Ht",
+      "name": "Elemental, Greater Fire",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "XwB5yGfy00XW8UUp",
+      "name": "Cattle",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "XwTiSBdAiTX6XVqp",
+      "name": "Quetzalcoatlus",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "Y3Y7L4mPVrcxG9O9",
+      "name": "Giant, Stone",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "YA8mo48WNHLm6saq",
+      "name": "Velociraptor",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "YCnTX125wazTwDGe",
+      "name": "Ochre Jelly",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "YgS0rbltXaYdNsb9",
+      "name": "Rust Monster",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "ZNYqDZ9n236roSBY",
+      "name": "Dragon, Elder - White",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "ZSzkV0ojXvGImY34",
+      "name": "Tyrannosaurus Rex",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "ZVKHvtT8HSgrZSej",
+      "name": "Giant, Cyclops",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "ZXpSxKZH1Zj3fBcP",
+      "name": "Hag, Green",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "ZhhuGoH4rFRiiaPp",
+      "name": "Vigzud",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "a8j1GTqT0qCjP5c4",
+      "name": "Minotaur",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "aAONbN10F5bLslSE",
+      "name": "Agnar",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "aK6Z8qAChqIblIfM",
+      "name": "Dobar-Chú",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "aSUaMBRdv6PsFx8Q",
+      "name": "Roc",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 5,
+        "height": 5
+      },
+      "system": {
+        "size": "colossal"
+      }
+    },
+    {
+      "id": "ai3fTv3zFIGJByPn",
+      "name": "Horse, War",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "ayNwvOBMadPIikBb",
+      "name": "Agropelter",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "b8UREGXp4ESbUZQj",
+      "name": "Horse, Riding",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "bI1V6pqJkiiIGEYJ",
+      "name": "Purple Worm",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 5,
+        "height": 5
+      },
+      "system": {
+        "size": "colossal"
+      }
+    },
+    {
+      "id": "bQRYqctiGqfLigDQ",
+      "name": "Beetle, Giant Fire",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "bemYbAdPHWUkA2Xi",
+      "name": "Shark, Great White",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "bjjglKk2aSt1kqL6",
+      "name": "Wolf, Dire",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "bkADyFuc1qzUBCEP",
+      "name": "Hippogriff",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "bu9vHDopcT6WfCB1",
+      "name": "Rot Grub",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "cClSRTp1wi5nKiTn",
+      "name": "Kobold",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "cF5pczTJMIq2Uk0K",
+      "name": "Darkmantle",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "cNk4q1zCVyOdhZts",
+      "name": "Troll",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "cRFXD2Of4WwaanVK",
+      "name": "Brownie",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "cUT2qxNSbgNpwhOT",
+      "name": "Dragon, Young - White",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "dEVG8wVR7MfyZgv9",
+      "name": "Elephant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "dGCcOIF0MbUWuTIe",
+      "name": "Peryton",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "eSxup7PeewOpxVft",
+      "name": "Spider, Giant Tarantella",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "eb6eSw47fMgSb2Dz",
+      "name": "Griffon",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "eim4ggishfz85XVX",
+      "name": "Dragon, Ancient - White",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 4,
+        "height": 4
+      },
+      "system": {
+        "size": "giant"
+      }
+    },
+    {
+      "id": "f3WRM4LB2A6Lulew",
+      "name": "Dragon, Hatchling - Blue",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "fCH7Tzir9ujPavZ3",
+      "name": "Basilisk",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "fH1TAjmzFTDXdlHF",
+      "name": "Dragon, Elder - Green",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "fM1JjKdHbzQVm1rI",
+      "name": "Rat, Giant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "gJlZhYArQK0sg2er",
+      "name": "Hobgoblin",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "gMKwv81k8AHuZBk0",
+      "name": "Golem, Flesh",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "gOWR3pPKIEMyriVy",
+      "name": "Dragon, Elder - Red",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "gYBtO8FpqNSE26so",
+      "name": "Scarecrow",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "gnz6BaC1eD9hgHka",
+      "name": "Dragon, Hatchling - Black",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "gpu0T0RHM0TvQO5U",
+      "name": "Ooze, Quicksilver",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "gt8W22bMxmlzXVXi",
+      "name": "Living Statue, Iron",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "hAkT666Zj6PpoQeB",
+      "name": "Dragon, Hatchling - White",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "hK1ium0CxnRa06ba",
+      "name": "Elemental, Lesser Earth",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "hLO69Zjvz7WaJAmO",
+      "name": "Zombie, Boomer",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "hoo4mqGpqwc1cJA5",
+      "name": "Nightmare",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "hpvz01W4mhKZDyrq",
+      "name": "Otyugh",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "iDD1iA0svCS8AINS",
+      "name": "Gibbering Mouther",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "iHkYA8Y2dGZ5bOXb",
+      "name": "Roper",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "ivaexVLsiJiQlx9L",
+      "name": "Electric Eel",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "iyCEulXgz8uABmdD",
+      "name": "Ogler",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "j96QNTFGxzOdM20K",
+      "name": "Chimera",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "j9pfmlTLheG41ABq",
+      "name": "Frog/Toad, Giant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "jO00LGH0j3HNTGve",
+      "name": "Mermaid",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "jlHvHvDg3eWkNDNb",
+      "name": "Scorpion, Giant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "jrG1IUD7M1Fkv0Nl",
+      "name": "Firebat",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "k3EwC9SOab0RkAOM",
+      "name": "Mastodon",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "kC1nLXnixm7d7O6p",
+      "name": "Ettercap",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "kFvtJftws2UsK1rE",
+      "name": "Thunderfoot",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 5,
+        "height": 5
+      },
+      "system": {
+        "size": "colossal"
+      }
+    },
+    {
+      "id": "kcqeeuQ2oDfyKaak",
+      "name": "Brollachan",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "kdkY2n6gMSQLT5Tr",
+      "name": "Rat",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "kj19gjrvuuO3lUjK",
+      "name": "Aurumvorax",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "klRBWjiNUz7GlVAb",
+      "name": "Werewolf",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "l0R5eP2Gp0WC6QPq",
+      "name": "Flying Sword",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "lQ3dyK9D9KJAQ3YD",
+      "name": "Carbuncle",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "m8NmLilJ7kskGiLU",
+      "name": "Imp",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "m8Q6WWcR8LGOFJde",
+      "name": "Wraith",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "mCt7qRrjmd5hipbl",
+      "name": "Hydra",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 4,
+        "height": 4
+      },
+      "system": {
+        "size": "giant"
+      }
+    },
+    {
+      "id": "mPEirZNos2d7EOoJ",
+      "name": "Dethbat",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "mRKPp10Yiq0n7ddR",
+      "name": "Treant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "mdtMIAyn3qMINoyD",
+      "name": "Bulette",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "mfXiP8SZOBYuin8r",
+      "name": "Bat, Giant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "mv0wyiZlTaFnxa7r",
+      "name": "Questing Beast",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "myX3mcLd7SWBpFku",
+      "name": "Beetle, Bombardier",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "mzHfFclIaG0WIeUi",
+      "name": "Kraken",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 5,
+        "height": 5
+      },
+      "system": {
+        "size": "colossal"
+      }
+    },
+    {
+      "id": "nTDQhDi3B8l7kMUB",
+      "name": "Rhagodessa",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "nUCpW08PbeCZ3wxG",
+      "name": "Blink Dog",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "nVvh3rM6agI6zwek",
+      "name": "Vampire",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "nYO6xGYPRmtNuhV9",
+      "name": "Air Bubble",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "nZBfS7RH0A7N9v11",
+      "name": "Dragon, Elder - Blue",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "ni0WqqZrr9OzwdSd",
+      "name": "Deer",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "niDTL17izgqngzej",
+      "name": "Wererat",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "nmjWVM9zzRXsEuCZ",
+      "name": "Gremlin",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "nnB577RG4wcLJN3y",
+      "name": "Frog/Toad",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "oDROHzNC8xZ4HY5m",
+      "name": "Hag, Sea",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "oM0nBpVMFBGrGlbz",
+      "name": "Gargoyle",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "oUsPWK1hrCZ0C7SP",
+      "name": "Invisible Stalker",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "ousYRudW4JSmruXi",
+      "name": "Snallygaster",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "pRONIekLAiAAEp4e",
+      "name": "Sphinx",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "pRwsDQBP6ck8LuWs",
+      "name": "Dog, Medium",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "peS6wk3Zv8WiS5Dd",
+      "name": "Dragon, Ancient - Black",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 4,
+        "height": 4
+      },
+      "system": {
+        "size": "giant"
+      }
+    },
+    {
+      "id": "pjgK1vqOzpVobYj0",
+      "name": "Magmot",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "ptHOZjMHox7xssPa",
+      "name": "Snake, Giant Constrictor",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "pvwYATClTGQw2qgU",
+      "name": "Crayfish, Giant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "qMlyP6vGm2ZAQx3W",
+      "name": "Almiraj",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "qNPV7PkPDVdXdCJ4",
+      "name": "Dungeonheart",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "qi6QdSz3VDqGVx9X",
+      "name": "Catoblepas",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "qoDcl5FH8moHJYq9",
+      "name": "Potead, Large",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "qtKz79tM6rnnKOq8",
+      "name": "Goblin, Archer",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "rCrUMFfwgaBaii4d",
+      "name": "Living Statue, Crystal",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "rCwEUw6tad40GBYw",
+      "name": "Drake",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "rdXUVjQNJjZoXuNE",
+      "name": "Flail Snail",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "s62GZ293jOYSyOzO",
+      "name": "Ghoul",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "sG44of9DOFFzorqC",
+      "name": "Ogre",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "sI2DQeLhYZsybo0m",
+      "name": "Hippocampus",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "sKTQolDkwr6rAq0O",
+      "name": "Lizard, Giant Gecko",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "ssbUeRw0VM03vk6b",
+      "name": "Dog, Small",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "svzEPBpYY23Vg0Dg",
+      "name": "Bat",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "tYaJPSfXV1L18hRM",
+      "name": "Badger",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "small"
+      }
+    },
+    {
+      "id": "tkWK2yke2Jj4OC4w",
+      "name": "Whale, Killer",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 5,
+        "height": 5
+      },
+      "system": {
+        "size": "colossal"
+      }
+    },
+    {
+      "id": "tox2rxTF7WFaqSJk",
+      "name": "Pit Fiend",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "trLqdRvjz70izXqj",
+      "name": "Dragon, Young - Blue",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "txlrPzpyjCW7Un16",
+      "name": "Phorusrhacos",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "tzcSHcrAb3ht8Xu2",
+      "name": "Achaierai",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "u7dDldbTI4t7OzfO",
+      "name": "Slug, Giant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 4,
+        "height": 4
+      },
+      "system": {
+        "size": "giant"
+      }
+    },
+    {
+      "id": "uHLuS9QzxsZiqviW",
+      "name": "Boar",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "uIRiPIcdtl00VHdb",
+      "name": "Golem, Iron",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "uP9PU5GjMzJnsxIs",
+      "name": "Unicorn",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "vEW7TmLM86ZiFWRX",
+      "name": "Satyr",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "veGvTkYC104yHS0D",
+      "name": "Grim Reaper",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "icons/magic/death/skull-energy-light-purple.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "vfYUYLbge9paLQvO",
+      "name": "Zotz, Demon",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "voStbqLKsCCFOaoW",
+      "name": "Piercer",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "vyABoU3fvkulDHHq",
+      "name": "Sea Serpent",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "wKPKn9Xuvj4SJA6I",
+      "name": "Hodag",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "wNK06vFyHkFkvgLO",
+      "name": "Zombie",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "wZ1lpFv59kCH9Pxj",
+      "name": "Nymph",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "wdqCpTf6IvtPLc80",
+      "name": "Beetle, Giant Tiger",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "wensvnWLoQYUQbdX",
+      "name": "Dragon, Hatchling - Green",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "whdFCj27KB6OnkRI",
+      "name": "Rhinoceros",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "wvsqs13wZtUTrU69",
+      "name": "Orc",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "x6LlT39h6rhvtCQi",
+      "name": "Elemental, Greater Water",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "xHpwskXYzh0g8ig6",
+      "name": "Mummy",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "xwAfbjZqqVzOyEAI",
+      "name": "Vortex",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "xx33Zy89J7w2Jbmf",
+      "name": "Elemental, Greater Earth",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 3,
+        "height": 3
+      },
+      "system": {
+        "size": "huge"
+      }
+    },
+    {
+      "id": "yJbVHu4txMW9HyRG",
+      "name": "Crab, Giant",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "yn22rgWJrAqwqAV0",
+      "name": "Snakeman",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "yw0kCRbsAd5SyI2D",
+      "name": "Triffid",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "zGwkpzRePCVK8HQE",
+      "name": "Harpy",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "zJTSUTgRHCA1233u",
+      "name": "Shadow",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "zbCW1iYfN0KJhdJF",
+      "name": "Cave Fisher",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "zbkj3u7LKu7obIZF",
+      "name": "Alligator/Crocodile",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 2,
+        "height": 2
+      },
+      "system": {
+        "size": "large"
+      }
+    },
+    {
+      "id": "zwwV8fXQhYzPQfKp",
+      "name": "Dragon, Ancient - Blue",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 4,
+        "height": 4
+      },
+      "system": {
+        "size": "giant"
+      }
+    }
+  ],
+  "humanlike": [
+    {
+      "id": "08CoNr8b1bWeNhVx",
+      "name": "Assassin",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "1mTDoi8ei7OS5F7K",
+      "name": "Brigand",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "3NH0htaYJBRV1kxt",
+      "name": "Thug",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "9ExaW25RRMJOI5Du",
+      "name": "Bandit",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "AemomWxuMN4xtRCO",
+      "name": "Acolyte",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "K45kmnZ6IcAREhIa",
+      "name": "Guard",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "LSTCLWY5BPRYAsYH",
+      "name": "Gladiator",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "Pgeg3m1KSHSgZFSE",
+      "name": "Scout",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "R2nIHe2d2FGZ2y6b",
+      "name": "Mage, Fire",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "Xb2FnkVT17Wxdvvs",
+      "name": "Apothecary",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "aD4znybU2n2ezbdF",
+      "name": "Warlord",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "dkIeYNQafNyYpUqx",
+      "name": "Cultist",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "ggnyh61eqHCSYSlf",
+      "name": "Knight",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "iNyB5vndkNTYts7z",
+      "name": "Commoner",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "ibWhCUOSu77wCpLM",
+      "name": "Mage, Shock",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "t4LwKjA1gDld7TgW",
+      "name": "Noble",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "tdntLkl8mjrX8Yfb",
+      "name": "Mage, Frost",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "uC2MIW37zSOIb8O5",
+      "name": "Trader",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "ubcEWtTMU56G0K4f",
+      "name": "Veteran",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "uxqAgvxbvzahOBbL",
+      "name": "Berserker",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    },
+    {
+      "id": "zN8WKLkLBGMf1i2V",
+      "name": "Bard",
+      "img": "systems/vagabond/assets/ui/default-npc.svg",
+      "prototypeToken": {
+        "texture": {
+          "src": "systems/vagabond/assets/ui/default-npc.svg",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "width": 1,
+        "height": 1
+      },
+      "system": {
+        "size": "medium"
+      }
+    }
+  ],
+  "summary": {
+    "totalBestiary": 297,
+    "totalHumanlike": 21,
+    "sizes": {
+      "small": 36,
+      "medium": 143,
+      "huge": 37,
+      "large": 83,
+      "giant": 10,
+      "colossal": 9
+    }
+  }
+}

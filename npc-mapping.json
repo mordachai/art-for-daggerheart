@@ -1,0 +1,2538 @@
+{
+  "Flying Spellbook": {
+    "tooManyTokens": "Flying Sword",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Ape": {
+    "tooManyTokens": "Ape",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Animated Armor": {
+    "tooManyTokens": "Animated Armor",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Giant, Hill": {
+    "tooManyTokens": "Hill Giant",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Goblin, Mage": {
+    "tooManyTokens": "Goblin",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Ankheg": {
+    "tooManyTokens": "Ankheg",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Chort": {
+    "tooManyTokens": "Bearded Devil",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dimension Ripper": {
+    "tooManyTokens": "Displacer Beast",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Golem, Bone": {
+    "tooManyTokens": "Bone Naga",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Crawling Claw": {
+    "tooManyTokens": "Crawling Claw",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Elemental, Water": {
+    "tooManyTokens": "Water Elemental",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Ooze, Ectoplasmic": {
+    "tooManyTokens": "Gelatinous Cube",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Yeti": {
+    "tooManyTokens": "Yeti",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Grasping Goo": {
+    "tooManyTokens": "Gray Ooze",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Couatl": {
+    "tooManyTokens": "Couatl",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Nymit": {
+    "tooManyTokens": "Sprite",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Chicken": {
+    "tooManyTokens": "Goat",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Stirge": {
+    "tooManyTokens": "Stirge",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Carcolh": {
+    "tooManyTokens": "Purple Worm",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Zombie, Drowner": {
+    "tooManyTokens": "Zombie",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Zombie Dragon": {
+    "tooManyTokens": "Beholder Zombie",
+    "size": "giant",
+    "width": 4,
+    "height": 4,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Elemental, Air": {
+    "tooManyTokens": "Air Elemental",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Shark, Megalodon": {
+    "tooManyTokens": "Hunter Shark",
+    "size": "giant",
+    "width": 4,
+    "height": 4,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon Turtle": {
+    "tooManyTokens": "Young Green Dragon",
+    "size": "colossal",
+    "width": 6,
+    "height": 6,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Skeleton, Blazing Bones": {
+    "tooManyTokens": "Skeleton",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Leech, Giant": {
+    "tooManyTokens": "Giant Worm",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Pixie": {
+    "tooManyTokens": "Pixie",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "False Hydra": {
+    "tooManyTokens": "Hydra",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Lindworm": {
+    "tooManyTokens": "Young Green Dragon",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Kelpie": {
+    "tooManyTokens": "Nightmare",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Beisht Kione Dhoo": {
+    "tooManyTokens": "Nightmare",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Elemental, Lesser Water": {
+    "tooManyTokens": "Water Elemental",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Banshee": {
+    "tooManyTokens": "Banshee",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Choker": {
+    "tooManyTokens": "Intellect Devourer",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Mantis, Giant": {
+    "tooManyTokens": "Thri-kreen",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Elemental, Greater Air": {
+    "tooManyTokens": "Air Elemental",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Ghost": {
+    "tooManyTokens": "Ghost",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Medusa": {
+    "tooManyTokens": "Medusa",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Ancient - Green": {
+    "tooManyTokens": "Young Green Dragon",
+    "size": "giant",
+    "width": 4,
+    "height": 4,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Deep One": {
+    "tooManyTokens": "Kuo-toa",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Rabbit": {
+    "tooManyTokens": "Goat",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Cloaker": {
+    "tooManyTokens": "Cloaker",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Boar, Giant": {
+    "tooManyTokens": "Giant Boar",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Sphinx, Archon": {
+    "tooManyTokens": "Sphinx",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Skeljaskrimsli": {
+    "tooManyTokens": "Skeleton",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Green Slime": {
+    "tooManyTokens": "Ochre Jelly",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Crawling Wall": {
+    "tooManyTokens": "Rug of Smothering",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Death Knight": {
+    "tooManyTokens": "Knight",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Young - Red": {
+    "tooManyTokens": "Young Red Dragon",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Angel": {
+    "tooManyTokens": "Deva",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Troglodyte": {
+    "tooManyTokens": "Troglodyte",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Werewolf, Dire": {
+    "tooManyTokens": "Werewolf",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Will o' Wisp": {
+    "tooManyTokens": "Will-o'-Wisp",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Hag, Grove": {
+    "tooManyTokens": "Green Hag",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Triceratops": {
+    "tooManyTokens": "Triceratops",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Whale, Blue": {
+    "tooManyTokens": "Killer Whale",
+    "size": "colossal",
+    "width": 6,
+    "height": 6,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Octopus, Giant": {
+    "tooManyTokens": "Giant Octopus",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Wight": {
+    "tooManyTokens": "Wight",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Mummy Lord": {
+    "tooManyTokens": "Mummy",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Rumptifusel": {
+    "tooManyTokens": "Goblin",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Snake, Pit Viper": {
+    "tooManyTokens": "Poisonous Snake",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Assassin Vine": {
+    "tooManyTokens": "Vine Blight",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Kobold, Warrior": {
+    "tooManyTokens": "Kobold",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Elemental, Lesser Fire": {
+    "tooManyTokens": "Fire Elemental",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Manticore": {
+    "tooManyTokens": "Manticore",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Skeleton, Giant": {
+    "tooManyTokens": "Minotaur Skeleton",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Gelatinous Cube": {
+    "tooManyTokens": "Gelatinous Cube",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Owl": {
+    "tooManyTokens": "Owl",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Cat": {
+    "tooManyTokens": "Cat",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Sea Lion": {
+    "tooManyTokens": "Seal",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Hellhound": {
+    "tooManyTokens": "Hellhound",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Homunculus": {
+    "tooManyTokens": "Homunculus",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Tarrasque": {
+    "tooManyTokens": "Tyrannosaurus Rex",
+    "size": "colossal",
+    "width": 6,
+    "height": 6,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Elemental, Lesser Air": {
+    "tooManyTokens": "Air Elemental",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Thoom": {
+    "tooManyTokens": "Earth Elemental",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Pseudodragon": {
+    "tooManyTokens": "Pseudodragon",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Lizard, Giant Draco": {
+    "tooManyTokens": "Giant Lizard",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Hippopotamus": {
+    "tooManyTokens": "Rhinoceros",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Floating Eye": {
+    "tooManyTokens": "Spectator",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Snake, Giant Poisonous": {
+    "tooManyTokens": "Giant Poisonous Snake",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Viskyd": {
+    "tooManyTokens": "Sprite",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Horse, Draft": {
+    "tooManyTokens": "Draft Horse",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Weasel, Giant": {
+    "tooManyTokens": "Giant Weasel",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Young - Green": {
+    "tooManyTokens": "Young Green Dragon",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Amphiptere": {
+    "tooManyTokens": "Pseudodragon",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Hippopotamus, Behemoth": {
+    "tooManyTokens": "Rhinoceros",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Carrion Clump": {
+    "tooManyTokens": "Shambling Mound",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Cockatrice": {
+    "tooManyTokens": "Cockatrice",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Skeleton": {
+    "tooManyTokens": "Skeleton",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Alligator/Crocodile, Giant": {
+    "tooManyTokens": "Giant Crocodile",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Sabre-tooth Tiger": {
+    "tooManyTokens": "Saber-Toothed Tiger",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Owl Bear": {
+    "tooManyTokens": "Owlbear",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Carcass Crawler": {
+    "tooManyTokens": "Carrion Crawler",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Grey Ooze": {
+    "tooManyTokens": "Gray Ooze",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Kobold, Alchemist": {
+    "tooManyTokens": "Kobold",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Ape, Giant": {
+    "tooManyTokens": "Giant Ape",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Ripworm": {
+    "tooManyTokens": "Purple Worm",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Potead, Medium": {
+    "tooManyTokens": "Awakened Shrub",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Spider, Giant": {
+    "tooManyTokens": "Giant Spider",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Pteranodon": {
+    "tooManyTokens": "Pteranodon",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Spider, Giant Black Widow": {
+    "tooManyTokens": "Giant Spider",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Potead, Small": {
+    "tooManyTokens": "Awakened Shrub",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Ant, Giant": {
+    "tooManyTokens": "Giant Centipede",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Violet Fungus": {
+    "tooManyTokens": "Violet Fungus",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Ancient - Red": {
+    "tooManyTokens": "Young Red Dragon",
+    "size": "giant",
+    "width": 4,
+    "height": 4,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Joust Guardian": {
+    "tooManyTokens": "Helmed Horror",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Elemental, Fire": {
+    "tooManyTokens": "Fire Elemental",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Bee, Giant": {
+    "tooManyTokens": "Giant Wasp",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Elemental, Earth": {
+    "tooManyTokens": "Earth Elemental",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Shambling Mound": {
+    "tooManyTokens": "Shambling Mound",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Goblin, Warrior": {
+    "tooManyTokens": "Goblin",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Oni": {
+    "tooManyTokens": "Oni",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Cat, Great": {
+    "tooManyTokens": "Panther",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Yellow Mould": {
+    "tooManyTokens": "Shrieker",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Wyvern": {
+    "tooManyTokens": "Wyvern",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Wolf": {
+    "tooManyTokens": "Wolf",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Lich": {
+    "tooManyTokens": "Mummy",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Elder - Black": {
+    "tooManyTokens": "Young Black Dragon",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Bugbear": {
+    "tooManyTokens": "Bugbear",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Byakhee": {
+    "tooManyTokens": "Vrock",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Amikuk": {
+    "tooManyTokens": "Merrow",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Froghemoth": {
+    "tooManyTokens": "Chuul",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Demon Ray": {
+    "tooManyTokens": "Chasme",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Golem, Stone": {
+    "tooManyTokens": "Stone Golem",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Black Pudding": {
+    "tooManyTokens": "Black Pudding",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Hydrangean": {
+    "tooManyTokens": "Treant",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Hawk": {
+    "tooManyTokens": "Hawk",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Phoenix": {
+    "tooManyTokens": "Fire Elemental",
+    "size": "giant",
+    "width": 4,
+    "height": 4,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Spider, Giant Crab": {
+    "tooManyTokens": "Giant Spider",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Thulhan": {
+    "tooManyTokens": "Aboleth",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Ooze, Blood": {
+    "tooManyTokens": "Ochre Jelly",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Wolf in Sheep's Clothing": {
+    "tooManyTokens": "Mimic",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Living Statue, Rock": {
+    "tooManyTokens": "Gargoyle",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Church Grim": {
+    "tooManyTokens": "Worg",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Mimic": {
+    "tooManyTokens": "Mimic",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Bear": {
+    "tooManyTokens": "Brown Bear",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Viper Tree": {
+    "tooManyTokens": "Awakened Tree",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Young - Black": {
+    "tooManyTokens": "Young Black Dragon",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Hatchling - Red": {
+    "tooManyTokens": "Red Dragon Wyrmling",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Centipede, Giant": {
+    "tooManyTokens": "Giant Centipede",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Golem, Clay": {
+    "tooManyTokens": "Clay Golem",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Efreeti": {
+    "tooManyTokens": "Fire Giant",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Jarjacha": {
+    "tooManyTokens": "Death Dog",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Wolf, Winter": {
+    "tooManyTokens": "Winter Wolf",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Necrophidius": {
+    "tooManyTokens": "Bone Naga",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Warp Beast": {
+    "tooManyTokens": "Displacer Beast",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Snake, Cobra": {
+    "tooManyTokens": "Poisonous Snake",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Doppelgänger": {
+    "tooManyTokens": "Doppelganger",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Stone Colossus": {
+    "tooManyTokens": "Stone Giant",
+    "size": "colossal",
+    "width": 6,
+    "height": 6,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Stolas Demon": {
+    "tooManyTokens": "Vrock",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Elemental, Greater Fire": {
+    "tooManyTokens": "Fire Elemental",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Cattle": {
+    "tooManyTokens": "Goat",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Quetzalcoatlus": {
+    "tooManyTokens": "Pteranodon",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Giant, Stone": {
+    "tooManyTokens": "Stone Giant",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Velociraptor": {
+    "tooManyTokens": "Allosaurus",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Ochre Jelly": {
+    "tooManyTokens": "Ochre Jelly",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Rust Monster": {
+    "tooManyTokens": "Rust Monster",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Elder - White": {
+    "tooManyTokens": "Young White Dragon",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Tyrannosaurus Rex": {
+    "tooManyTokens": "Tyrannosaurus Rex",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Giant, Cyclops": {
+    "tooManyTokens": "Cyclops",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Hag, Green": {
+    "tooManyTokens": "Green Hag",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Vigzud": {
+    "tooManyTokens": "Troglodyte",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Minotaur": {
+    "tooManyTokens": "Minotaur",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Agnar": {
+    "tooManyTokens": "Yeti",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dobar-Chú": {
+    "tooManyTokens": "Displacer Beast",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Roc": {
+    "tooManyTokens": "Giant Eagle",
+    "size": "colossal",
+    "width": 6,
+    "height": 6,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Horse, War": {
+    "tooManyTokens": "Warhorse",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Agropelter": {
+    "tooManyTokens": "Satyr",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Horse, Riding": {
+    "tooManyTokens": "Riding Horse",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Purple Worm": {
+    "tooManyTokens": "Purple Worm",
+    "size": "colossal",
+    "width": 6,
+    "height": 6,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Beetle, Giant Fire": {
+    "tooManyTokens": "Giant Fire Beetle",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Shark, Great White": {
+    "tooManyTokens": "Hunter Shark",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Wolf, Dire": {
+    "tooManyTokens": "Dire Wolf",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Hippogriff": {
+    "tooManyTokens": "Hippogriff",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Rot Grub": {
+    "tooManyTokens": "Swarm of Beetles",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Kobold": {
+    "tooManyTokens": "Kobold",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Darkmantle": {
+    "tooManyTokens": "Darkmantle",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Troll": {
+    "tooManyTokens": "Troll",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Brownie": {
+    "tooManyTokens": "Sprite",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Young - White": {
+    "tooManyTokens": "Young White Dragon",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Elephant": {
+    "tooManyTokens": "Elephant",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Peryton": {
+    "tooManyTokens": "Peryton",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Spider, Giant Tarantella": {
+    "tooManyTokens": "Giant Spider",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Griffon": {
+    "tooManyTokens": "Griffon",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Ancient - White": {
+    "tooManyTokens": "Young White Dragon",
+    "size": "giant",
+    "width": 4,
+    "height": 4,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Hatchling - Blue": {
+    "tooManyTokens": "Blue Dragon Wyrmling",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Basilisk": {
+    "tooManyTokens": "Basilisk",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Elder - Green": {
+    "tooManyTokens": "Young Green Dragon",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Rat, Giant": {
+    "tooManyTokens": "Giant Rat",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Hobgoblin": {
+    "tooManyTokens": "Hobgoblin",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Golem, Flesh": {
+    "tooManyTokens": "Flesh Golem",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Elder - Red": {
+    "tooManyTokens": "Young Red Dragon",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Scarecrow": {
+    "tooManyTokens": "Scarecrow",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Hatchling - Black": {
+    "tooManyTokens": "Black Dragon Wyrmling",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Ooze, Quicksilver": {
+    "tooManyTokens": "Gelatinous Cube",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Living Statue, Iron": {
+    "tooManyTokens": "Helmed Horror",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Hatchling - White": {
+    "tooManyTokens": "White Dragon Wyrmling",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Elemental, Lesser Earth": {
+    "tooManyTokens": "Earth Elemental",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Zombie, Boomer": {
+    "tooManyTokens": "Zombie",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Nightmare": {
+    "tooManyTokens": "Nightmare",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Otyugh": {
+    "tooManyTokens": "Rust Monster",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Gibbering Mouther": {
+    "tooManyTokens": "Gibbering Mouther",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Roper": {
+    "tooManyTokens": "Roper",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Electric Eel": {
+    "tooManyTokens": "Giant Constrictor Snake",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Ogler": {
+    "tooManyTokens": "Spectator",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Chimera": {
+    "tooManyTokens": "Chimera",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Frog/Toad, Giant": {
+    "tooManyTokens": "Giant Frog",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Mermaid": {
+    "tooManyTokens": "Merfolk",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Scorpion, Giant": {
+    "tooManyTokens": "Giant Scorpion",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Firebat": {
+    "tooManyTokens": "Giant Bat",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Mastodon": {
+    "tooManyTokens": "Mammoth",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Ettercap": {
+    "tooManyTokens": "Ettercap",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Thunderfoot": {
+    "tooManyTokens": "Mammoth",
+    "size": "colossal",
+    "width": 6,
+    "height": 6,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Brollachan": {
+    "tooManyTokens": "Shadow",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Rat": {
+    "tooManyTokens": "Rat",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Aurumvorax": {
+    "tooManyTokens": "Badger",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Werewolf": {
+    "tooManyTokens": "Werewolf",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Flying Sword": {
+    "tooManyTokens": "Flying Sword",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Carbuncle": {
+    "tooManyTokens": "Pseudodragon",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Imp": {
+    "tooManyTokens": "Imp",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Wraith": {
+    "tooManyTokens": "Wraith",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Hydra": {
+    "tooManyTokens": "Hydra",
+    "size": "giant",
+    "width": 4,
+    "height": 4,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dethbat": {
+    "tooManyTokens": "Giant Bat",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Treant": {
+    "tooManyTokens": "Treant",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Bulette": {
+    "tooManyTokens": "Bulette",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Bat, Giant": {
+    "tooManyTokens": "Giant Bat",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Questing Beast": {
+    "tooManyTokens": "Chimera",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Beetle, Bombardier": {
+    "tooManyTokens": "Giant Fire Beetle",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Kraken": {
+    "tooManyTokens": "Giant Octopus",
+    "size": "colossal",
+    "width": 6,
+    "height": 6,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Rhagodessa": {
+    "tooManyTokens": "Giant Spider",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Blink Dog": {
+    "tooManyTokens": "Blink Dog",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Vampire": {
+    "tooManyTokens": "Vampire Spawn",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Air Bubble": {
+    "tooManyTokens": "Gas Spore",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Elder - Blue": {
+    "tooManyTokens": "Young Blue Dragon",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Deer": {
+    "tooManyTokens": "Deer",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Wererat": {
+    "tooManyTokens": "Wererat",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Gremlin": {
+    "tooManyTokens": "Imp",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Frog/Toad": {
+    "tooManyTokens": "Frog",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Hag, Sea": {
+    "tooManyTokens": "Sea Hag",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Gargoyle": {
+    "tooManyTokens": "Gargoyle",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Invisible Stalker": {
+    "tooManyTokens": "Invisible Stalker",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Snallygaster": {
+    "tooManyTokens": "Cockatrice",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Sphinx": {
+    "tooManyTokens": "Sphinx",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dog, Medium": {
+    "tooManyTokens": "Mastiff",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Ancient - Black": {
+    "tooManyTokens": "Young Black Dragon",
+    "size": "giant",
+    "width": 4,
+    "height": 4,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Magmot": {
+    "tooManyTokens": "Magmin",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Snake, Giant Constrictor": {
+    "tooManyTokens": "Giant Constrictor Snake",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Crayfish, Giant": {
+    "tooManyTokens": "Giant Crab",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Almiraj": {
+    "tooManyTokens": "Giant Rat",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dungeonheart": {
+    "tooManyTokens": "Shambling Mound",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Catoblepas": {
+    "tooManyTokens": "Gorgon",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Potead, Large": {
+    "tooManyTokens": "Awakened Tree",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Goblin, Archer": {
+    "tooManyTokens": "Goblin",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Living Statue, Crystal": {
+    "tooManyTokens": "Shield Guardian",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Drake": {
+    "tooManyTokens": "Pseudodragon",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Flail Snail": {
+    "tooManyTokens": "Flumph",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Ghoul": {
+    "tooManyTokens": "Ghoul",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Ogre": {
+    "tooManyTokens": "Ogre",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Hippocampus": {
+    "tooManyTokens": "Sea Horse",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Lizard, Giant Gecko": {
+    "tooManyTokens": "Giant Lizard",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dog, Small": {
+    "tooManyTokens": "Jackal",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Bat": {
+    "tooManyTokens": "Bat",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Badger": {
+    "tooManyTokens": "Badger",
+    "size": "small",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Whale, Killer": {
+    "tooManyTokens": "Killer Whale",
+    "size": "colossal",
+    "width": 6,
+    "height": 6,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Pit Fiend": {
+    "tooManyTokens": "Barbed Devil",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Young - Blue": {
+    "tooManyTokens": "Young Blue Dragon",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Phorusrhacos": {
+    "tooManyTokens": "Axe Beak",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Achaierai": {
+    "tooManyTokens": "Axe Beak",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Slug, Giant": {
+    "tooManyTokens": "Gray Ooze",
+    "size": "giant",
+    "width": 4,
+    "height": 4,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Boar": {
+    "tooManyTokens": "Boar",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Golem, Iron": {
+    "tooManyTokens": "Helmed Horror",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Unicorn": {
+    "tooManyTokens": "Unicorn",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Satyr": {
+    "tooManyTokens": "Satyr",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Grim Reaper": {
+    "tooManyTokens": "Wraith",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Zotz, Demon": {
+    "tooManyTokens": "Chasme",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Piercer": {
+    "tooManyTokens": "Piercer",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Sea Serpent": {
+    "tooManyTokens": "Plesiosaurus",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Hodag": {
+    "tooManyTokens": "Bulette",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Zombie": {
+    "tooManyTokens": "Zombie",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Nymph": {
+    "tooManyTokens": "Dryad",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Beetle, Giant Tiger": {
+    "tooManyTokens": "Giant Fire Beetle",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Hatchling - Green": {
+    "tooManyTokens": "Green Dragon Wyrmling",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Rhinoceros": {
+    "tooManyTokens": "Rhinoceros",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Orc": {
+    "tooManyTokens": "Orc",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Elemental, Greater Water": {
+    "tooManyTokens": "Water Elemental",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Mummy": {
+    "tooManyTokens": "Mummy",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Vortex": {
+    "tooManyTokens": "Air Elemental",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Elemental, Greater Earth": {
+    "tooManyTokens": "Earth Elemental",
+    "size": "huge",
+    "width": 3,
+    "height": 3,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Crab, Giant": {
+    "tooManyTokens": "Giant Crab",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Snakeman": {
+    "tooManyTokens": "Yuan-ti Pureblood",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Triffid": {
+    "tooManyTokens": "Vine Blight",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Harpy": {
+    "tooManyTokens": "Harpy",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Shadow": {
+    "tooManyTokens": "Shadow",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Cave Fisher": {
+    "tooManyTokens": "Hook Horror",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Alligator/Crocodile": {
+    "tooManyTokens": "Crocodile",
+    "size": "large",
+    "width": 2,
+    "height": 2,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Dragon, Ancient - Blue": {
+    "tooManyTokens": "Young Blue Dragon",
+    "size": "giant",
+    "width": 4,
+    "height": 4,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Assassin": {
+    "tooManyTokens": "Assassin",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Brigand": {
+    "tooManyTokens": "Bandit",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Thug": {
+    "tooManyTokens": "Thug",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Bandit": {
+    "tooManyTokens": "Bandit",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Acolyte": {
+    "tooManyTokens": "Acolyte",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Guard": {
+    "tooManyTokens": "Guard",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Gladiator": {
+    "tooManyTokens": "Gladiator",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Scout": {
+    "tooManyTokens": "Scout",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Mage, Fire": {
+    "tooManyTokens": "Mage",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Apothecary": {
+    "tooManyTokens": "Commoner",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Warlord": {
+    "tooManyTokens": "Knight",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Cultist": {
+    "tooManyTokens": "Cultist",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Knight": {
+    "tooManyTokens": "Knight",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Commoner": {
+    "tooManyTokens": "Commoner",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Mage, Shock": {
+    "tooManyTokens": "Mage",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Noble": {
+    "tooManyTokens": "Noble",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Mage, Frost": {
+    "tooManyTokens": "Mage",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Trader": {
+    "tooManyTokens": "Commoner",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Veteran": {
+    "tooManyTokens": "Veteran",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Berserker": {
+    "tooManyTokens": "Berserker",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  },
+  "Bard": {
+    "tooManyTokens": "Noble",
+    "size": "medium",
+    "width": 1,
+    "height": 1,
+    "scaleX": 1,
+    "scaleY": 1
+  }
+}
